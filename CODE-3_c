@@ -1,0 +1,19 @@
+#include <stdio.h> 
+int main() { 
+int x;
+float z; 
+printf("Enter the number :");
+scanf ("%d", &x);
+printf ("Enter the float:");
+scanf("%f",&z);
+printf("%d",x);
+if (z>=6)
+{printf("\n%f",z);
+}
+else
+{
+printf("\nInv");
+}
+return 0;
+} 
+
