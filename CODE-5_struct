@@ -1,0 +1,37 @@
+#include<stdio.h> 
+struct employee 
+{ 
+char name[10]; 
+int year; 
+float sal; 
+char gen[10]; 
+}; 
+int main (){ 
+struct employee x; 
+
+printf ("Enter the name: "); 
+scanf ("%c", &x.name); 
+printf("\nThe name of the employee is :%c",x.name); 
+
+
+printf ("Enter the year of joining: "); 
+scanf ("%d", &x.year); 
+printf("\nThe year of joining is :""%d",x.year); 
+
+
+printf ("Enter the salary of the employee:"); 
+scanf ("%f", &x.sal); 
+printf("\nThe salary of the employee is :""%f",x.sal); 
+
+
+printf ("Enter the gender of the employee: "); 
+scanf ("%c", &x.gen); 
+printf("\nThe name of the employee is :""%c",x.gen); 
+
+printf("The details of the employee are:\n%c,\n%d,\n%f,\n%c", x.name, x.year, x.sal, x.gen); 
+
+return 0; 
+}
+
+
+
