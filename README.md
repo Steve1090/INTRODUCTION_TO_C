@@ -15,9 +15,13 @@ RESULT- The algorithm and the created code will print "Hello World".
 EXPERIMENT-2 (PRINTF AND SCANF)
 
 a. Start
+
 b. Enter the number(printf).
+
 c. Scan the number(scanf). 
+
 d. Print the number(printf).
+
 e. End
 
 EXPERIMENT-3 (
