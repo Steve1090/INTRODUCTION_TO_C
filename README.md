@@ -9,7 +9,8 @@ b. Use printtf command and type "Hello World".
 
 c. End program.
 
-RESULT- The algorithm and the created code will print "Hello World". 
+RESULT- The algorithm and the created code will print "Hello World". ![HELOWORLD](https://user-images.githubusercontent.com/108262513/227542304-da1984bc-0087-4bcf-a150-739274d1b445.png)
+
 
 EXPERIMENT-2 (PRINTF AND SCANF)
 
