@@ -24,6 +24,8 @@ d. Print the number(printf).
 
 e. End.
 
+![OP SCANF](https://user-images.githubusercontent.com/108262513/227542506-80461a4d-9687-49af-a347-7f88e549f9ff.png)
+
 EXPERIMENT-3 (IF-ELSE)
 
 a. Start.
@@ -38,6 +40,8 @@ e. Else the number is lesser than 6, print Inv.
 
 f. End.
 
+![ELSEIF](https://user-images.githubusercontent.com/108262513/227542549-4cf3ab87-3d01-4870-a657-63bbd17f6bf1.png)
+
 EXPERIMENT-4 (POINTERS) 
 A pointer is a variable that stores the memory address of another variable as its value.
 
@@ -50,6 +54,9 @@ c. Create pointer variable *ap and store it in 'a'.
 d. Create set of print f commands for: address and value of th evariable and the value of the pointer for the respective variable. 
 
 e. End. 
+
+![POINTERS](https://user-images.githubusercontent.com/108262513/227542591-597c6b0e-fcbe-493a-9b4a-91ca447d4289.png)
+
 
 EXPERIMENT-5 (STRUCTURES)
 Structures (also called structs) are a way to group several related variables into one place. 
@@ -65,6 +72,8 @@ d. Store and print values by using &x.DETAIL.
 e. Print all details. 
 
 f. End. 
+
+![Structure](https://user-images.githubusercontent.com/108262513/227542621-3ea8f963-55a9-496d-9db6-d60f36a23aaa.png)
 
 
   
