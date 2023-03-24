@@ -5,7 +5,9 @@ This file contains algorithms for respective experiments.
 EXPERIMENT-1 (HELLO WORLD)
 
 a.  Start and include #include <stdio.h> 
+
 b. Use printtf command and type "Hello World". 
+
 c. End program 
 
 RESULT- The algorithm and the created code will print "Hello World". 
