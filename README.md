@@ -75,5 +75,29 @@ f. End.
 
 ![Structure](https://user-images.githubusercontent.com/108262513/227542621-3ea8f963-55a9-496d-9db6-d60f36a23aaa.png)
 
+EXPERIMENT-6 (POWERS)
+
+a.Start the program.
+
+b. Declare an integer variable n.
+
+c. Display a message "Enter a number: ".
+
+d. Read an integer value from the user using the scanf function and store it in the variable n.
+
+e. Check if the value of n is 0. If yes, print the message "%d is not a power of 2." where %d is replaced by the value of n.
+
+f. If the value of n is not 0, check whether n & (n-1) is equal to 0.
+
+1. If it is equal to 0, then n is a power of 2.
+
+2. If it is not equal to 0, then n is not a power of 2.
+
+g. Print the appropriate message based on the above checks.
+
+h. End the program by returning 0.
+
+![POWER-1 ](https://user-images.githubusercontent.com/108262513/230789190-3151a80e-fbbd-49e2-9d64-38c0eb9d1678.png)
+![POWER-2](https://user-images.githubusercontent.com/108262513/230789232-3b945616-187c-473d-a409-07c227a6ea2a.png)
 
   
